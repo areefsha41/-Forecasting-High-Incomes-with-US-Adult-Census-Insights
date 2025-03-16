@@ -69,10 +69,7 @@ The models were evaluated using metrics such as accuracy, precision, recall, F1-
 - Areef Shaik
 - Jahnavi Pravaleeka Battu
 
-## References
-1. [US Adult Census Dataset](https://www.kaggle.com/datasets/jainaru/adult-income-census-dataset)
-2. [XGBoost Documentation](https://xgboost.readthedocs.io/en/latest/)
-3. [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
+
 
 
 
